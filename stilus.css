@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(29, 75, 78);
+    color: rgb(0, 0, 0);
+}
+figure{
+    /* background-color: red; */
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
